@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TimeOfDay.cpp.obj": [
+			"SkySphereInterface.gen.cpp.obj",
+			"TimeOfDay.init.gen.cpp.obj",
+			"TimeOfDaySubsystem.gen.cpp.obj",
+			"TimeOfDayTypes.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"TimeOfDayModule.cpp.obj",
+			"TimeOfDaySubsystem.cpp.obj"
+		]
+	}
+}

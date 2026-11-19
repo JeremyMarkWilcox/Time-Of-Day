@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Time Of Day",
+	"Description": "Data-table-driven time of day world subsystem: discrete lighting states, smooth transitions, cinematic lock, optional companion light, and console tools for testing.",
+	"Category": "Gameplay",
+	"CreatedBy": "Jeremy Wilcox",
+	"CreatedByURL": "https://www.jeremy-wilcox.com",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TimeOfDay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

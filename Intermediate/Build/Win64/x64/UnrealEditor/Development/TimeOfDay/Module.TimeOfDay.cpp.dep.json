@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timeofday\\module.timeofday.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\intermediate\\build\\win64\\x64\\ancientgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timeofday\\definitions.timeofday.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\skysphereinterface.gen.cpp",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\source\\timeofday\\public\\skysphereinterface.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\skysphereinterface.generated.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\timeofday.init.gen.cpp",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\timeofdaysubsystem.gen.cpp",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\source\\timeofday\\public\\timeofdaysubsystem.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\source\\timeofday\\public\\timeofdaytypes.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\timeofdaytypes.generated.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\timeofdaysubsystem.generated.h",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\unrealeditor\\inc\\timeofday\\uht\\timeofdaytypes.gen.cpp",
+            "d:\\game dev\\projects\\ue5\\unreal engine projects(learning)\\valleyoftheancient\\plugins\\timeofday\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timeofday\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
